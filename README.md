@@ -2,6 +2,18 @@
 
 Dark colorscheme for vim.
 
+Installation:
+
+```
+call plug#begin()
+Plug 'scwood/vim-hybrid' " use your favorite plugin manager
+call plug#end()
+
+syntax on
+set background=dark
+colorscheme hybrid
+```
+
 Original documentation found [here](https://github.com/w0ng/vim-hybrid).
 
 I have modified a few highlight groups to have more contrast, namely StatusLineNC, ColorColumn, and CursorLine.
