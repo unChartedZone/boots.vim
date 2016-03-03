@@ -453,8 +453,10 @@ let &background = s:style
 " }}}
 
 " My tweaks (scwood)
-hi ColorColumn  cterm=NONE ctermbg=233 ctermfg=NONE
-hi StatusLine   cterm=none ctermbg=235 ctermfg=015
-hi StatusLineNC   cterm=none ctermbg=235 ctermfg=NONE
-hi CursorLine   cterm=NONE ctermbg=236 ctermfg=NONE
-let g:indentLine_color_term = 237
+hi ColorColumn cterm=none ctermbg=233 ctermfg=none
+hi StatusLine cterm=none ctermbg=235 ctermfg=white
+hi StatusLineNC cterm=none ctermbg=235 ctermfg=none
+hi CursorLine ctermbg=234
+hi TabLineSel cterm=none ctermfg=white ctermbg=none
+hi TabLine cterm=none ctermfg=white ctermbg=235
+hi TabLineFill cterm=none ctermfg=white ctermbg=235
