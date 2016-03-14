@@ -4,7 +4,7 @@ Dark colorscheme for vim.
 
 Use your favorite plugin manager for installation. I like [vim-plug](https://github.com/junegunn/vim-plug).
 
-```vimscript
+```VimL
 call plug#begin()
 Plug 'scwood/vim-hybrid'
 call plug#end()
