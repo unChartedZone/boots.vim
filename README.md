@@ -14,8 +14,8 @@ set background=dark
 colorscheme hybrid
 ```
 
-Original documentation found [here](https://github.com/w0ng/vim-hybrid).
+This is a fork. Original documentation found [here](https://github.com/w0ng/vim-hybrid).
 
-I have modified a few highlight groups to have more contrast, including tab and status line colors.
+I have modified a few highlight groups to my taste.
 
 ![](https://cloud.githubusercontent.com/assets/9126138/13645145/bb474cb6-e5e6-11e5-8063-3ba0b8515d5b.png)
