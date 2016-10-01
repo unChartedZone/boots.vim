@@ -455,8 +455,8 @@ let &background = s:style
 " My tweaks (scwood)
 hi ColorColumn cterm=none ctermbg=234 ctermfg=none
 hi Normal ctermbg=none
-hi StatusLine cterm=none ctermbg=none ctermfg=white
-hi StatusLineNC cterm=none ctermbg=none ctermfg=240
-hi TabLine cterm=none ctermfg=240 ctermbg=none
-hi TabLineFill cterm=none ctermfg=none ctermbg=none
+hi StatusLine cterm=none ctermbg=235 ctermfg=white
+hi StatusLineNC cterm=none ctermbg=235 ctermfg=white
+hi TabLine cterm=none ctermfg=white ctermbg=235
+hi TabLineFill cterm=none ctermfg=white ctermbg=235
 hi TabLineSel cterm=none ctermfg=white ctermbg=none
