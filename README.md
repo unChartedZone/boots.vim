@@ -1,4 +1,4 @@
-#vim-hybrid
+#Boots.vim
 
 Dark colorscheme for vim.
 
@@ -12,6 +12,11 @@ call plug#end()
 syntax on
 set background=dark
 colorscheme hybrid
+```
+
+```C++
+cout << "Hello world" << endl;
+
 ```
 
 This is a fork. Original documentation found [here](https://github.com/w0ng/vim-hybrid).
